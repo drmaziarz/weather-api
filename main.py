@@ -5,6 +5,7 @@ app = Flask(__name__)
 
 stations = pd.read_csv("data/stations.txt",
                        skiprows=17,
+                       nrows=92,
                        usecols=["STAID", "STANAME                                 "])
 
 

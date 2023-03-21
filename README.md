@@ -1,8 +1,9 @@
 # 🌦 WeatherAPI
-## API with information about temperature from almost 6500 stations 
+## API with information about temperature from over 90 stations, in various range of time 
 
 `technologies used:`
 `Python`
+`HTML`
 `Flask`
 `pandas`
 
