@@ -1,5 +1,5 @@
 # 🌦 WeatherAPI
-## API with information about temperature from over 90 stations, in various range of time 
+## A REST API built with Python and Flask to serve historical weather data for various cities. 
 
 `technologies used:`
 `Python`
